@@ -1,0 +1,3 @@
+<view class="page" data-ui-theme="{{theme}}">
+  微信小程序 UI 实践与调试库
+</view>
